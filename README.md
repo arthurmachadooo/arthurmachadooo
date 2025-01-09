@@ -16,7 +16,7 @@ Sou um estudante apaixonado por **programação** e **tecnologia**. Estou sempre
 - Git, GitHub, NodeJs
 
 ### 📬 Como me encontrar
-- [LinkedIn](https://www.linkedin.com/in/arthurpereiramachado/)
+- [LinkedIn](https://www.linkedin.com/in/arthur-pereira-machado-85766a345/)
 - [Instagram](https://www.instagram.com/arthur.machaado/)
 - [GitHub](https://github.com/arthurmachado)
 
