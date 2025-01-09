@@ -18,6 +18,7 @@ Sou um estudante apaixonado por **programação** e **tecnologia**. Estou sempre
 ### 📬 Como me encontrar
 - [Instagram](https://www.instagram.com/arthur.machaado/)
 - [GitHub](https://github.com/arthurmachado)
+- [Linkedin](https://www.linkedin.com/in/arthurpereiramachado/)
 
 ### 💬 Fique à vontade para entrar em contato!
 
